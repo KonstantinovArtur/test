@@ -1,0 +1,14 @@
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\bin\Debug\net6.0\Скоропечатание.exe
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\bin\Debug\net6.0\Скоропечатание.deps.json
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\bin\Debug\net6.0\Скоропечатание.runtimeconfig.json
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\bin\Debug\net6.0\Скоропечатание.dll
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\bin\Debug\net6.0\Скоропечатание.pdb
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\obj\Debug\net6.0\Скоропечатание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\obj\Debug\net6.0\Скоропечатание.AssemblyInfoInputs.cache
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\obj\Debug\net6.0\Скоропечатание.AssemblyInfo.cs
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\obj\Debug\net6.0\Скоропечатание.csproj.CoreCompileInputs.cache
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\obj\Debug\net6.0\Скоропечатание.dll
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\obj\Debug\net6.0\refint\Скоропечатание.dll
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\obj\Debug\net6.0\Скоропечатание.pdb
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\obj\Debug\net6.0\Скоропечатание.genruntimeconfig.cache
+C:\Users\akons\source\repos\Скоропечатание\Скоропечатание\obj\Debug\net6.0\ref\Скоропечатание.dll
